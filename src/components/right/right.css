@@ -1,0 +1,46 @@
+/* .image-container{
+    width: calc(100% - 60%);
+    height: 100%;
+    
+}  */
+
+
+.image-container{
+    /* width: calc(100% - 50%);
+    height: 100%;
+    background-color: black; */
+    padding-left: 50em; 
+    position: relative;
+     bottom: 700px; 
+}
+.button1 {
+    background-color: #1a8fff;
+    border:none;
+    color: white;
+    padding:10px;
+    border-radius:12px;
+    width: 8em;
+    position: absolute;
+    right: 20%;
+    top: 20px;
+
+}
+.button1:hover{
+    background-color: rgb(41, 217, 102);
+}
+
+.img{
+    
+        width: 37em;
+        position: relative;
+        bottom: -50px;
+        float:right;
+
+}
+p{
+    margin: 49px;
+    margin-left: 42px;
+    position: relative;
+    bottom: -39px;
+}
+

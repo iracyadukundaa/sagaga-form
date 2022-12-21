@@ -1,0 +1,62 @@
+.page{
+    width: 50%;
+    height: 100%;
+    background-color:rgb(238, 238, 243);
+    
+} 
+body{
+    background-color: white;
+    
+}
+form.container input{
+    padding: 30px;
+    border-radius: 20px;
+    margin: 20px;
+    border: none;
+}
+/* button{
+    padding: 90px;
+} */
+form.container{
+    margin: 19px;
+    margin-top: 96px;
+}
+p{
+    margin: 37px;
+    margin-left: 42px;
+}
+
+h2{
+    margin: 20px;
+    margin-left: 88px;
+}
+
+/* button.button{
+    padding: 35px;
+    margin: 1px;
+    position: relative;
+    top: 115px;
+    right: 39em;
+    width: 19em;
+    border-radius: 30px;
+} */
+
+.sign-btn{
+    padding: 24px 56px;
+    border:none;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 20px;
+    background-color: #1a8fff;
+    color: #fff;
+    margin-left: 20px;
+    
+
+}
+.sign-btn:hover{
+    background-color: rgb(41, 217, 102);
+}
+
+#phone_number{
+    width:500px;
+}
